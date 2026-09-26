@@ -1,6 +1,6 @@
 # Projeto NLW - Trilha Iniciante
 
-- Tecnologias utilizada 
+## Tecnologias utilizada 
     - HTML
     - CSS
     - JavaScript
